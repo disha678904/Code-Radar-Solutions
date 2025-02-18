@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    int input1;
-    int input2;
-    int input3;
-    scanf("%d %d %d", &input1, &input2, &input3);
+    int c;
+    int b;
+    int a;
+    scanf("%d %d %d", &a, &b, &c);
     if(a+b>c && a+c>b && b+c>a){
         printf("Valid");
     }else{

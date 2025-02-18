@@ -2,8 +2,8 @@
 
 int main() {
     int number;  
-    printf();
     scanf("%d", &number);
+    printf();
 
      
     if (number % 2 == 0) {

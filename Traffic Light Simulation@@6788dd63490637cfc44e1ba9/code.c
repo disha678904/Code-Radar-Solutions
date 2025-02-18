@@ -3,17 +3,17 @@
 int main() {
      char input;
      scanf("%c %c %c",&input);
-     if(input =='R'|| input =='r')
+if(input =='R'|| input =='r')
 {
     printf("Stop");
 
 }
-if(input =='G'|| input =='g')
+ else if(input =='G'|| input =='g')
 {
     printf("Go");
     
 }
-if(input =='Y'|| input =='y')
+ else if(input =='Y'|| input =='y')
 {
     printf("Slow down");
     

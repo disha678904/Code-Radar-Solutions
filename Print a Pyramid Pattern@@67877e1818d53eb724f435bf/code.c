@@ -1,10 +1,1 @@
-#include <stdio.h>
-
-int main() {
-     int num1;
-     printf(*)
-    printf(***)     
-    printf(*****)
-
-    return 0;  // Correctly placed inside the main function
-}
+ 

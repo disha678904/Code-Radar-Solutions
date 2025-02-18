@@ -15,7 +15,7 @@ if(input =='R'|| input =='r')
 }
  else if(input =='Y'|| input =='y')
 {
-    printf("Slow down");
+    printf("Slow Down");
     
 }
 else{

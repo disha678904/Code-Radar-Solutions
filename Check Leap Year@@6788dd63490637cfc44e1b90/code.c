@@ -6,9 +6,9 @@ int main() {
     
     // Corrected condition with properly enclosed parentheses
     if ((num % 4 == 0 && num % 100 != 0) || (num % 400 == 0)) {
-        printf("%d Leap Year\n", num);  // Corrected printf format
+        printf("%d Leap Year\n" );  // Corrected printf format
     } else {
-        printf("%d  Not a Leap Year\n", num);  // Corrected printf format
+        printf("%d  Not a Leap Year\n" );  // Corrected printf format
     }
 
     return 0;
